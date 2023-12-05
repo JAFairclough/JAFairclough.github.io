@@ -2,6 +2,42 @@
 title: "About me"
 ---
 
-## Header
+## Education
 
-Say more about you here.
+Ph.D., Human Development and Family Sciences (December 2023)
+Texas Tech University
+
+M.A., General Experimental Psychology (August 2020)
+California State University, Northridge
+
+B.A., Psychology (May 2018)
+California State University, Northridge
+
+A.A., Social & Behavioral Sciences (June 2016)
+College of the Sequoias
+
+## Background & Research
+
+Dr. Javari Fairclough is a Social Scientist with a Ph.D. in Human Development and Family Sciences. He has been trained as an applied quantitative researcher that uses novel statistical and research methodologies to address positive youth development and the complex interplay between the family unit, peers, and problem behaviors (e.g., youth aggression, delinquency and substance use) among at-risk youth. Through these novel and comprehensive analytic methods, Dr. Fairclough aims to develop effective prevention and intervention strategies that have the potential to empower and support this vulnerable population as they transition to young adulthood. One core aspect of his research centers around identifying the risk factors that contribute to problem behaviors such as substance use among at-risk/minority youth and young adults. By examining various social, psychological, and environmental influences, Dr. Fairclough strives to pinpoint the dynamic factors that are associated with increases in the probability of engagement in negative behaviors. Furthermore, he is dedicated to investigating the protective factors (e.g., religiosity,parental involvement, parental monitoring) that can mitigate risk and promote positive developmental outcomes for at-risk individuals. This includes an exploration of resilience factors, coping mechanisms, and supportive resources that can serve as influential buffers against problem behaviors. Dr. Fairclough's future research methodology will involve a combination of rigorous quantitative approaches (e.g., person centered approaches like latent class analysis, multi-dimensional growth mixture models), qualitative follow-up investigations, and evidence-based interventions. By leveraging a multidisciplinary approach, his objective is to generate comprehensive and practical insights that lead to effective prevention and intervention strategies for at-risk youth and young adults struggling with several negative developmental outcomes (e.g., mental health issues), and problem behaviors like delinquency and substance use. Ultimately, his research endeavors to foster improved well-being, social integration, and positive growth among at-risk individuals. To date, Dr. Fairclough has made great strides in establishing a strong program of research by publishing three articles (including one first author article addressing religiosity as a protective factor) and producing six peer-reviewed research presentations (3 first author). Another five manuscripts are currently in preparation. 
+
+## Research Program Areas 
+
+A cornerstone of Dr. Fairclough's research is investigating protective factors for at-risk youth and young adults. As such, he previously has investigated the extent to which religiosity is associated with lower rates of delinquency and substance use among urban African American adolescents in the United States. By using a finite mixture modeling technique (i.e., Latent Class Analysis), he was able to examine the heterogeneity in five religiosity items among a sample of adolescents. The findings showed that three religiosity classes were the best fit to the data and protective effects of religiosity on substance use (e.g., alcohol) and delinquency were found (e.g., assault) (Fairclough et al., 2023). These findings add support to the literature that has consistently found that religion can be a tool in the hands of many individuals, especially for at-risk African American youth. 
+
+Another area of his research focuses on risk factors affecting positive youth development. For example, his dissertation implemented a multidimensional growth mixture model (MGMM) to examine heterogeneity in polysubstance use among a sample of adjudicated youth. After establishing the number of substantive interpretations of the polysubstance use classes, the manual three-step approach was used to examine predictors of the classes, and the classes were used to predict NEET (i.e., employment status and drop-out) status and social relationships in young adulthood using logistic regression. The results showed that three polysubstance use classes were identified: “Low-Use”, “Poly-Use”, and “Tobacco-Dominant”. Additionally, classes of polysubstance use partially influenced NEET status and significantly influenced social relationships in young adulthood for adjudicated youth. Specifically, those in the low-use class were significantly more likely to have better friendships, romantic relationships, and community involvement upon transition to young adulthood. 
+
+## Current Interests
+
+- Data science 
+- Programming tools
+- Machine learning
+- Artificial intelligence
+- Quantitative research methodology
+- Adolescent development and the transition to adulthood
+- Problem behaviors: delinquency, substance use, peer victimization, etc.
+
+In today's data-driven world, understanding and leveraging data has become essential for professionals across industries. With an ever-increasing volume of information being generated daily, the ability to analyze and interpret data provides businesses with a competitive advantage. Professionals who can harness the power of data are able to make well-informed decisions and drive innovation within their organizations. The availability of sophisticated tools and technologies further enhances the capacity to collect, store, and analyze vast amounts of data. This allows businesses to identify trends, patterns, and insights that were previously inaccessible. In this context, mastering skills such as data analysis, data visualization, and statistical modeling has become crucial for professionals aiming to excel in their careers. Moreover, the effective utilization of data allows companies to optimize operations, improve customer experiences, personalize marketing strategies, and develop new products or services tailored to specific market segments. As such, in today's professional landscape, being proficient in utilizing data is no longer optional but rather a prerequisite for success.
+
+
+Due to these current data developments, Dr. Fairclough's interests have grown considerably to span outside the realms of academia. Specifically, he has developed a keen interest in Data science. Data science encompasses a range of interdisciplinary skills that involve applying scientific methods and processes, algorithms, and systems to extract knowledge and insights from structured or unstructured datasets. By employing programming tools such as Python,R or SQL, individuals can efficiently collect, clean, analyze, and visualize data. Moreover, incorporating machine learning techniques enables professionals to develop predictive models that detect patterns and make accurate predictions. This shift towards incorporating data-driven insights allows data professionals to make more informed decisions based on objective evidence rather than relying solely on intuition or subjective opinions. Ultimately, Dr. Fairclough believes that embracing the power of data science equips professionals with the ability to uncover hidden trends and patterns in large datasets, leading to better decision-making and ultimately driving success in industries.
+
